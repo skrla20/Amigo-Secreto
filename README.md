@@ -2,6 +2,6 @@
 
 - Estado del proyecto: En construcción.
 
-Para ejecutar el sistema, debes poner: 
+Para ejecutar el juego del Amigo Secreto, debes agregar nombres de tus amigos. En:
 
-```npm  install react ```
+```añadir ```
