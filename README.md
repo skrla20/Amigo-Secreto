@@ -9,8 +9,8 @@ En el espacio en blanco y presionar:
 
 Luego de ingresar el nombre de tus amigos, se crea una lista:
 
-```Juan
-Maria```
+```Juan```
+```Maria```
 ```Pedro```
 ```Lucas```
 ```Lucia```
