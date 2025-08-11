@@ -19,7 +19,7 @@ Luego de ingresar el nombre de tus amigos, se crea una lista:
 
 ```Lucia```
 
-Luego de crear la lista debes con los nombres de tus amigos,debes presiona el boton 
+Luego de crear la lista con los nombres de tus amigos,debes presiona el boton 
 
 ```Sortear amigo```
 
